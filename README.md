@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+The current theme used by this GitHub Pages site is **`{{ site.theme }}`**.
 <!--
 **ArianCerro/ArianCerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
